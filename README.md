@@ -1,6 +1,6 @@
 # instaclone
 
-A new Flutter project.
+It's a simple Instagram clone app that me and my friends are coding to improve our Flutter skills.
 
 ## Getting Started
 
